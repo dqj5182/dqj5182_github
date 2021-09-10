@@ -1,2 +1,2 @@
-# personal_webpage
+# Daniel Jung (Sungho Jung)
 personal webpage
